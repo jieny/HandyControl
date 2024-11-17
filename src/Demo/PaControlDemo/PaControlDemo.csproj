@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\PaControlDemo_Code\PaControlDemo_Code.csproj" />
-    <ProjectReference Include="..\PaControl_Net_GE45\PaControl_Net_GE45.csproj" />
+    <ProjectReference Include="..\PaControl\PaControl.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="..\..\Shared\PaControlDemo_Shared\Data\DemoInfo.json">
