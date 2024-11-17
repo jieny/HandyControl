@@ -1,0 +1,9 @@
+﻿<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="PaControlDemo.App"
+             RequestedThemeVariant="Default">
+    <Application.Styles>
+        <StyleInclude Source="avares://PaControl/Themes/Theme.axaml" />
+        <StyleInclude Source="avares://PaControlDemo/Resources/Themes/Theme.axaml" />
+    </Application.Styles>
+</Application>

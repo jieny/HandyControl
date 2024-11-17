@@ -1,0 +1,19 @@
+﻿<hc:Window x:Class="PaControlDemo.MainWindow"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           xmlns:hc="https://handyorg.github.io/PaControl"
+           mc:Ignorable="d"
+           Title="PaControlDemo"
+           ShowTitle="False"
+           Style="{StaticResource WindowWin10}"
+           Background="{DynamicResource SecondaryRegionBrush}"
+           ResizeMode="CanResizeWithGrip"
+           WindowStartupLocation="CenterScreen"
+           d:DesignHeight="800" 
+           d:DesignWidth="1400"
+           hc:Empty.ShowEmpty="True"
+           Icon="/PaControlDemo;component/Resources/Img/icon.ico">
+    <ContentControl Name="ControlMain"/>
+</hc:Window>

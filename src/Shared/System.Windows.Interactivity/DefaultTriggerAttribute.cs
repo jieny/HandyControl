@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Globalization;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 [AttributeUsage(AttributeTargets.Property | AttributeTargets.Class, AllowMultiple = true)]
 public sealed class DefaultTriggerAttribute : Attribute

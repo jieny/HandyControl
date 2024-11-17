@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Windows;
 using System.Windows.Input;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public sealed class InvokeCommandAction : TriggerAction<DependencyObject>
 {

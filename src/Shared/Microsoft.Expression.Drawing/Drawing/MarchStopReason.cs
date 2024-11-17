@@ -1,4 +1,4 @@
-﻿namespace HandyControl.Expression.Drawing;
+﻿namespace PaControl.Expression.Drawing;
 
 internal enum MarchStopReason
 {

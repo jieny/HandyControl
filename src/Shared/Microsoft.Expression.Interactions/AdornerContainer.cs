@@ -2,7 +2,7 @@
 using System.Windows.Documents;
 using System.Windows.Media;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public class AdornerContainer : Adorner
 {

@@ -3,9 +3,9 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Controls.Primitives;
 using System.Windows.Media.Animation;
-using HandyControl.Data;
+using PaControl.Data;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 [DefaultTrigger(typeof(UIElement), typeof(EventTrigger), "MouseLeftButtonDown")]
 [DefaultTrigger(typeof(ButtonBase), typeof(EventTrigger), "Click")]

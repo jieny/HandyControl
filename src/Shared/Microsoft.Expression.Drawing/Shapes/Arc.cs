@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using System.Windows.Media;
-using HandyControl.Expression.Media;
+using PaControl.Expression.Media;
 
-namespace HandyControl.Expression.Shapes;
+namespace PaControl.Expression.Shapes;
 
 public sealed class Arc : PrimitiveShape, IArcGeometrySourceParameters
 {

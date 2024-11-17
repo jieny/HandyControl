@@ -1,4 +1,4 @@
-﻿namespace HandyControl.Expression.Media;
+﻿namespace PaControl.Expression.Media;
 
 public enum UnitType
 {

@@ -5,9 +5,9 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Media;
-using HandyControl.Data;
+using PaControl.Data;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public abstract class FluidMoveBehaviorBase : Behavior<FrameworkElement>
 {

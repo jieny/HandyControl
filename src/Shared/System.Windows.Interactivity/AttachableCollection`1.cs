@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.Windows;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public abstract class AttachableCollection<T> : FreezableCollection<T>, IAttachedObject
     where T : DependencyObject, IAttachedObject

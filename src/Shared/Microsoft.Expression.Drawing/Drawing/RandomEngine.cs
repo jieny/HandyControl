@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal class RandomEngine
 {

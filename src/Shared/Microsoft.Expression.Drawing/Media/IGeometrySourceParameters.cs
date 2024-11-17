@@ -1,6 +1,6 @@
 ﻿using System.Windows.Media;
 
-namespace HandyControl.Expression.Media;
+namespace PaControl.Expression.Media;
 
 public interface IGeometrySourceParameters
 {

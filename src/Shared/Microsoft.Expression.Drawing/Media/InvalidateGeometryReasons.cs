@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HandyControl.Expression.Media;
+namespace PaControl.Expression.Media;
 
 [Flags]
 public enum InvalidateGeometryReasons

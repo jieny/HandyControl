@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 [AttributeUsage(AttributeTargets.Class, Inherited = false)]
 public sealed class TypeConstraintAttribute : Attribute

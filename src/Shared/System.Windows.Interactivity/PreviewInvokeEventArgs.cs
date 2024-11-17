@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public class PreviewInvokeEventArgs : EventArgs
 {

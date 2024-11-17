@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal static class BezierCurveFlattener
 {

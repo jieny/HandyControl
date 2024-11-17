@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Windows;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal class MarchLocation
 {

@@ -1,9 +1,9 @@
 ﻿using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media;
-using HandyControl.Data;
+using PaControl.Data;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public class MouseDragElementBehavior : Behavior<FrameworkElement>
 {

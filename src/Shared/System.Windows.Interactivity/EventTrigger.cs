@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public class EventTrigger : EventTriggerBase<object>
 {

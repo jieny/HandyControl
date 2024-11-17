@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal static class PolylineHelper
 {

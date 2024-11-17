@@ -1,0 +1,16 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\PaControlDemo]
+@="PaControlDemo"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\PaControlDemo\DefaultIcon]
+@="#"
+
+[HKEY_CLASSES_ROOT\PaControlDemo\shell]
+
+[HKEY_CLASSES_ROOT\PaControlDemo\shell\open]
+
+[HKEY_CLASSES_ROOT\PaControlDemo\shell\open\command]
+@="#"
+

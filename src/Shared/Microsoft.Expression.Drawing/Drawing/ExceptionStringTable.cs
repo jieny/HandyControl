@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Resources;
 using System.Runtime.CompilerServices;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 [CompilerGenerated]
 [GeneratedCode("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]

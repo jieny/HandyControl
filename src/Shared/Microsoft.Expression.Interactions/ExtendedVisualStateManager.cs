@@ -8,9 +8,9 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Media.Effects;
 using System.Windows.Media.Imaging;
-using HandyControl.Data;
+using PaControl.Data;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public class ExtendedVisualStateManager : VisualStateManager
 {

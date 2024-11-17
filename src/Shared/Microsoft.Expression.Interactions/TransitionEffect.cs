@@ -2,7 +2,7 @@
 using System.Windows.Media;
 using System.Windows.Media.Effects;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public abstract class TransitionEffect : ShaderEffect
 {

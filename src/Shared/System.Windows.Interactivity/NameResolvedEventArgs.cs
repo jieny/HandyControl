@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 internal sealed class NameResolvedEventArgs : EventArgs
 {

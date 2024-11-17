@@ -7,9 +7,9 @@ using System.Windows.Documents;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
-using HandyControl.Data;
+using PaControl.Data;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public sealed class FluidMoveBehavior : FluidMoveBehaviorBase
 {

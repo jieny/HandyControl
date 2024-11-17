@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal sealed class PathSegmentData
 {

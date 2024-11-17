@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Media.Animation;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public abstract class Behavior : Animatable, IAttachedObject
 {

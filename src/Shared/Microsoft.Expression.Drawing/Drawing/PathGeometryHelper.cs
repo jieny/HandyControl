@@ -1,6 +1,6 @@
 ﻿using System.Windows.Media;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal static class PathGeometryHelper
 {

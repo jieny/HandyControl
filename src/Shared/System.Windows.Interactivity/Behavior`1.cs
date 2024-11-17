@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public abstract class Behavior<T> : Behavior where T : DependencyObject
 {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HandyControl.Expression.Drawing;
+namespace PaControl.Expression.Drawing;
 
 internal static class MathHelper
 {

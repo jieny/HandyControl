@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Reflection;
 using System.Windows;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public abstract class EventTriggerBase : TriggerBase
 {

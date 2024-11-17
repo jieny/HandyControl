@@ -2,11 +2,11 @@
 using System.Windows;
 using System.Windows.Media;
 using System.Windows.Shapes;
-using HandyControl.Data;
-using HandyControl.Expression.Drawing;
-using HandyControl.Expression.Media;
+using PaControl.Data;
+using PaControl.Expression.Drawing;
+using PaControl.Expression.Media;
 
-namespace HandyControl.Expression.Shapes;
+namespace PaControl.Expression.Shapes;
 
 public abstract class PrimitiveShape : Shape, IGeometrySourceParameters, IShape
 {

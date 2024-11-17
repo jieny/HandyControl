@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using System.Windows.Media;
-using HandyControl.Expression.Drawing;
+using PaControl.Expression.Drawing;
 
-namespace HandyControl.Expression.Media;
+namespace PaControl.Expression.Media;
 
 public abstract class GeometrySource<TParameters> : IGeometrySource
     where TParameters : IGeometrySourceParameters

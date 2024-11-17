@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace HandyControl.Interactivity;
+namespace PaControl.Interactivity;
 
 public static class Interaction
 {

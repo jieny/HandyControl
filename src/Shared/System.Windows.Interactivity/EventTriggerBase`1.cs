@@ -1,4 +1,4 @@
-﻿namespace HandyControl.Interactivity;
+﻿namespace PaControl.Interactivity;
 
 public abstract class EventTriggerBase<T> : EventTriggerBase where T : class
 {

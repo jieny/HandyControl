@@ -4,9 +4,9 @@ using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Windows;
 using System.Windows.Media;
-using HandyControl.Expression.Drawing;
+using PaControl.Expression.Drawing;
 
-namespace HandyControl.Expression.Media;
+namespace PaControl.Expression.Media;
 
 public sealed class SketchGeometryEffect : GeometryEffect
 {
