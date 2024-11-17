@@ -4,7 +4,7 @@
     <AssemblyName>PaControlDemo</AssemblyName>
     <RootNamespace>PaControlDemo</RootNamespace>
     <TargetFrameworks>net8.0-windows</TargetFrameworks>
-    <ApplicationIcon>..\..\Shared\PaControlDemo_Shared\Resources\Img\icon.ico</ApplicationIcon>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
     <NoWarn>0108;MSB3026;MSB3061;SYSLIB0014</NoWarn>
     <MSBuildWarningsAsMessages>NETSDK1138</MSBuildWarningsAsMessages>
     <ApplicationManifest>..\..\Shared\PaControlDemo_Shared\app.manifest</ApplicationManifest>
@@ -312,6 +312,7 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>LangProvider.cs</LastGenOutput>
     </Content>
+    <Content Include="icon.ico" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\Shared\PaControlDemo_Shared\Data\MessageToken.tt" Link="Data\MessageToken.tt">
